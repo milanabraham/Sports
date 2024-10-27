@@ -1,1 +1,1 @@
-Cricket uses bats, balls, wickets, and pads.
+Cricket uses bats, balls, wickets, and pad.
